@@ -1,7 +1,7 @@
 <H3> Name: Janani S </H3>
 <H3> Register Number: 212222230049 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:16-05-2025</H3>
+<H3> Date: 16-05-2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ### Aim:
